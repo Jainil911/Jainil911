@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainil911&label=Profile%20views&color=0e75b6&style=flat" alt="jainil911" /> </p>
 
-- 🔭 I’m currently working on **Spam Detection**
+- 🔭 I’m currently working on **Spam Detection Project**
 
 - 🌱 I’m currently learning **Deep Learning and Power BI Tool**
 
