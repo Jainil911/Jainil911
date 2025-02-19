@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jainil Prajapati</h1>
-<h3 align="center">A passionate data science and machine learning student from India</h3>
+<h3 align="center">A passionate data science student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainil911&label=Profile%20views&color=0e75b6&style=flat" alt="jainil911" /> </p>
 
-- 🔭 I’m currently working on **Spam Detection Project**
+- 🔭 I’m currently working on **Stock Price Prediction Project**
 
-- 🌱 I’m currently learning **Deep Learning and Power BI Tool**
+- 🌱 I’m currently learning **Deep Learning and Gen AI**
 
 - 📫 How to reach me **jainilprajapati39@gmail.com**
 
